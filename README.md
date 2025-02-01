@@ -1,10 +1,13 @@
 <h1 align="left">Hi, I'm Lohith Babu N 👋</h1>
 
 ###
+<h2 align="left">🚀 ABOUT ME </h2>
 
-<p align="left">🚀 About Me<br>I'm a passionate Cloud and DevOps enthusiast with a strong interest in building scalable, efficient, and automated systems. I love working with cloud platforms like AWS, and I'm always exploring tools like Kubernetes, Docker, Terraform, and CI/CD pipelines to streamline development workflows.</p>
+<p align="left">I'm a passionate Cloud and DevOps enthusiast with a strong interest in building scalable, efficient, and automated systems. I love working with cloud platforms like AWS, and I'm always exploring tools like Kubernetes, Docker, Terraform, and CI/CD pipelines to streamline development workflows.</p>
 
 ###
+<h2 align="left">SKILLS </h2>
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
