@@ -1,12 +1,12 @@
 <h1 align="left">Hi, I'm Lohith Babu N 👋</h1>
 
 ###
-<h2 align="left">🚀 ABOUT ME </h2>
+<h2 align="left">🚀 About Me </h2>
 
 <p align="left">I'm a passionate Cloud and DevOps enthusiast with a strong interest in building scalable, efficient, and automated systems. I love working with cloud platforms like AWS, and I'm always exploring tools like Kubernetes, Docker, Terraform, and CI/CD pipelines to streamline development workflows.</p>
 
 ###
-<h2 align="left">SKILLS </h2>
+<h2 align="left">🛠️ Skills </h2>
 
 
 <div align="left">
@@ -42,7 +42,7 @@
 <p align="left">Check out my portfolio to see my work and projects: <a href="https://vocal-marigold-d268ee.netlify.app" target="_blank">https://vocal-marigold-d268ee.netlify.app</a></p>
 
 ###
-<h2 align="left">CONTACT </h2>
+<h2 align="left">📫 How to Reach Me </h2>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/lohithbabu-n/" target="_blank">
