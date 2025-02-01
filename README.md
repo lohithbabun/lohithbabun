@@ -35,13 +35,14 @@
 
 ###
 
-<h3 align="left">🌐 Portfolio</h3>
+<h2 align="left">🌐 Portfolio</h2>
 
 ###
 
 <p align="left">Check out my portfolio to see my work and projects: <a href="https://vocal-marigold-d268ee.netlify.app" target="_blank">https://vocal-marigold-d268ee.netlify.app</a></p>
 
 ###
+<h2 align="left">CONTACT </h2>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/lohithbabu-n/" target="_blank">
